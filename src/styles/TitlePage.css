@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh; /* Set the height to fill the entire viewport */
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   
   .title-content {
