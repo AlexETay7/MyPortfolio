@@ -1,36 +1,16 @@
+import { DarkDropdownButton } from "./components/DarkDropdownButton";
 import ListGroup from "./components/ListGroup";
 
 function App() {
-  return <div><ListGroup /></div>
+  return (
+    <div>
+      <ListGroup></ListGroup>
+      <DarkDropdownButton></DarkDropdownButton>
+    </div>
+  );
 }
 
 export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
